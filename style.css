@@ -1,10 +1,12 @@
 body{
     margin:0px;
+    margin-bottom:20px;
     padding:0px;
     text-decoration: none;
     background-color: #ffffff ;
     width:90%;
     overflow:hidden;
+    scrolling:smooth;
 
 }
 .main_section1{
